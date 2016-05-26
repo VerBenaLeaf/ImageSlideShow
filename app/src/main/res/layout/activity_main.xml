@@ -34,6 +34,17 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <ImageView
+            android:src="@drawable/tiger-768574"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:src="@drawable/lemons-686918"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:src="@drawable/soap-61089"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
     </ViewFlipper>
